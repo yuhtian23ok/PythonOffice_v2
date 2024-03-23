@@ -23,11 +23,19 @@
 
 # github token
 點右上角大頭貼 
+
 -> 點 "Settings" 
+
 -> 出現新頁面，點左邊 "Developer Settings" 
+
 -> 出現選單，點 "Personal access tokens" 
+
 -> 點 "Tokens (classic)" 
+
 -> 點頁面中間右上方 "Generate Token" 
+
 -> 出現下拉選單，點 "Token (classic)" 
+
 -> 出現新頁面，輸入Note中說明、選擇token使用期限、勾選下方全部格子，最後點選最下方按鈕已產生token 
+
 -> 出現token，複製token並記錄
