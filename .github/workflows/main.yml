@@ -7,7 +7,7 @@ jobs:
     name: Set up environment
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@PythonOffice_v2 # what kind of github action version to use
+    - uses: actions/checkout@v2 # what kind of github action version to use
     
     - name: Run my python
       run: |
