@@ -12,5 +12,5 @@ jobs:
     - uses: actions/checkout@v2 # what kind of github action version to use#
     
     - name: Run my python
-      run: |
-        python3 MailSend.py
+      #run: |
+      #  python3 MailSend.py
